@@ -1,4 +1,4 @@
-# Bangla Fake News Detection Using Machine Learning and Inferancing with FastApi
+# Bengali Fake News Detection Using Machine Learning and Inferancing with FastApi
 This project aims to create a simple api that will use output from a machine learning model to predict if a news is real or fake. 
 
 ## Data Source
