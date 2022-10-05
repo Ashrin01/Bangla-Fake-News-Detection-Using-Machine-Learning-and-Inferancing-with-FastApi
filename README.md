@@ -10,7 +10,7 @@ First downsample technique was used to balance the dataset. Then NLTK and BNLTK 
 ## Machine Learning Models
 Different machine learning model was used and evaluted based on their accuracy matrics
 
-| Model | Accuracy % | 
+| Model | Accuracy (%)| 
 |---|---|
 | Naive Bayes | 89.42% |
 | SVM | 91.82% |
